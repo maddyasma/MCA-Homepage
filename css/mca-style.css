@@ -61,7 +61,6 @@ img {
 .article {
   display: flex;
   flex-direction: column;
-  border-left: 1px solid black;
   padding-left: 20px;
 }
 .article h4 {
@@ -322,6 +321,20 @@ button {
 #mcastore {
   border-left: black solid 1px;
 }
+#familyday {
+border-left: black solid 1px;
+}
+#Daskalopoulos {
+border-left: black solid 1px;
+}
+#policestate {
+border-left: black solid 1px;
+}
+
+
+
+
+
 .blogposts {
   display: flex;
   gap: 1rem;
