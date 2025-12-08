@@ -132,7 +132,7 @@ li a:hover {
   gap: 2rem;
   flex-wrap: nowrap;
   overflow-x: auto;
-  padding: 2rem 0;
+  padding: 2rem 2rem;
 }
 .exhibit-card {
   position: relative; 
