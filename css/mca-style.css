@@ -298,12 +298,17 @@ button {
   line-height: 1.5;
   padding: 0;
 }
+
+.featured-card a {
+  text-decoration-line: none;
+}
+
 .featured-articles {
   display: flex;
   gap: 2rem;
   flex-wrap: nowrap;
   overflow-x: auto;
-  padding: 2rem 2rem 0 0;
+  padding: 2rem 2rem 2rem 0;
 }
 #mcastore {
   border-left: black solid 1px;
